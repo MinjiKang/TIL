@@ -1,5 +1,4 @@
-# TIL
-Today I Learned_
+# TIL(Today I Learned)
 오늘 새로 배운 것과 공부한 것을 기록한다.
 
 ## 작성규칙
